@@ -1,0 +1,6 @@
+"emp_id","emp_name","dept_id","job_title","salary"
+201,"Alice Johnson",1,"HR Manager","70000.00"
+202,"Bob Smith",2,"Software Engineer","120000.00"
+203,"Carol Lee",2,"DevOps Engineer","115000.00"
+204,"David Kim",3,"Marketing Lead","85000.00"
+205,"Eva Brown",5,"IT Technician","65000.00"

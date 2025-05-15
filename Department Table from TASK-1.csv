@@ -1,0 +1,6 @@
+"dept_id","dept_name","manager_id","location","budget"
+1,"Human Resources",101,"New York","500000.00"
+2,"Engineering",102,"San Francisco","2000000.00"
+3,"Marketing",103,"Chicago","750000.00"
+4,"Sales",104,"Dallas","1000000.00"
+5,"IT Support",105,"Seattle","600000.00"
