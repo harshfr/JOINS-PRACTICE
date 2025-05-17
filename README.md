@@ -12,7 +12,6 @@
 
 *MENTOR*: NEELA SANTOSH
 
-**what have the task is performed, what tools have used, code edit platform, where this task can be applicable
 
 This repository contains structured SQL examples and sample data for practicing various types of SQL JOIN operations in MYSQL, completed as part of Task-1 
 named JOINS PRACTICE.
