@@ -33,15 +33,18 @@ These tables are connected via dept_id as a foreign key in employees.
 # FILES-INCLUDED
 Files with thier specification as directed:
 
-1. JOINS.sql                        (created in github file)
-2. JOINS PRACTICE TASK-1.sql        (uploaded real sql file from MYSQL)
-3. Department Table from TASK-1.csv (uploaded file for table output)
-4. Employee table from TASK-1.csv   (uploaded file for table output)
-5. Inner Join Table from TASK-1.csv (uploaded as the inner Join table output)
-6. Left Join Table from TASK-1.csv  (uploaded as the left join table output)
-7. Right Join Table from TASK-1.csv (uploaded as the right join table output)
-8. Full Join Table from TASK-1.csv  (uploaded as the full join table output)
-9. README.md
+| File Name                                  | Description                                                             |
+|-------------------------------------------|-------------------------------------------------------------------------|
+| `JOINS.sql`                                | Manually written SQL file containing JOIN examples                      |
+| `JOINS PRACTICE TASK-1.sql`                | Original SQL file exported from MySQL with executed JOIN queries        |
+| `Department Table from TASK-1.csv`         | Output of the `Department` table used in JOIN queries                   |
+| `Employee table from TASK-1.csv`           | Output of the `Employee` table used in JOIN queries                     |
+| `Inner Join Table from TASK-1.csv`         | Output showing the result of `INNER JOIN`                               |
+| `Left Join Table from TASK-1.csv`          | Output showing the result of `LEFT JOIN`                                |
+| `Right Join Table from TASK-1.csv`         | Output showing the result of `RIGHT JOIN`                               |
+| `Full Join Table from TASK-1.csv`          | Output showing the result of `FULL OUTER JOIN` (emulated in MySQL)      |
+| `Readme.MD`                                | The overview of this document in repository for making better understanding |
+
 
 # TOOLS-USED
 Tools used for the JOINS PRACTICE are:
